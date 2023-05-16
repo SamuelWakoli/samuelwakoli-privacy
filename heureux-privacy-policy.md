@@ -8,9 +8,6 @@ When you use the App, we may collect certain information about you, including:
 
 - Your name and email address, if you provide it to us.
 - Information about how you use the App, such as the pages you visit and the features you use.
-- Device information, such as your device type, operating system, and browser type.
-- Log data, which may include your IP address, browser type, and pages you visit.
-- Cookies and other tracking technologies.
 
 ## How We Use Your Personal Information
 
@@ -31,7 +28,7 @@ We may share your personal information with:
 
 ## Your Rights
 
-You have the right to access, correct, or delete your personal information that we collect. You may also have the right to restrict or object to certain types of processing of your personal information.
+You have the right to access, correct your personal information that we collect. You may also have the right to restrict or object to certain types of processing of your personal information.
 
 ## Data Retention
 
