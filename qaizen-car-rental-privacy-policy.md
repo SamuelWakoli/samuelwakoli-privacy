@@ -42,6 +42,6 @@ We reserve the right to update or modify this Privacy Policy at any time. Any ch
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at swwakoli@gmail.com.
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please call us or email us at [+254 726 371714 | +254 728 305774 | info@qaizen.co.ke]
 
 By using the App, you signify your acceptance and agreement to the terms of this Privacy Policy.
